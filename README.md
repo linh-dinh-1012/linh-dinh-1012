@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi there, I'm Linh Đinh — welcome!
 
-<!--
-**linh-dinh-1012/linh-dinh-1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I'm an interdisciplinary data scientist, passionate about ecological transitions, open knowledge, and digital tools for change.  
+With a background in environmental science, social research and humanities, I focus on meaningful, data-driven approaches for sustainability.
 
-Here are some ideas to get you started:
+## 📬 Contact me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thi-thuy-linh-dinh/)  
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:linh.dinh@agroparistech.fr)
+
+### 🧠 Programming languages:
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat)  
+![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white&style=flat)  
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat)
