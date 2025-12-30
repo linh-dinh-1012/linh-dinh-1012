@@ -6,7 +6,7 @@ With a background in environmental science, social research, and humanities, I d
 ## 📬 Contact me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linhdinh-data/)  
-[![Email](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:contact@linhdinh.fr)
+[![Email](https://img.shields.io/badge/Email-contact%40linhdinh.fr-blue?logo=maildotru&logoColor=white)](mailto:contact@linhdinh.fr)
 
 ### 🧠 Programming languages:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
