@@ -1,7 +1,8 @@
 # 👋 Hi there, I'm Linh Đinh — welcome!
 
 I'm an interdisciplinary data professional, passionate about ecological transitions, open knowledge, and digital tools for change.  
-With a background in environmental science, social research, and humanities, I design automated data analyses and AI-powered tools, with a strong interest in NLP and large language models, to support sustainability-driven decision-making.
+With a background in environmental science, social research, and humanities, I design data pipelines, structure heterogeneous datasets, and build indicators and dashboards to support institutions and professionals. I also explore AI and NLP methods when they can improve the reliability, scalability, and usability of analyses.
+
 
 ## Contact me
 
